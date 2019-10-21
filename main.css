@@ -48,7 +48,7 @@ input[type=checkbox] {
 }
 
 .output-container #output {
-  	word-wrap: break-word;
+  word-wrap: break-word;
 	max-width: calc(100% - 40px);
 }
 
